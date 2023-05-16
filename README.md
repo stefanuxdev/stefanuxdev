@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @stefanuxdev
-- 👀 I’m interested in Fron End Web Development & UX Design
+- 💯 I'm UX & Graphic Designer
+- 👀 I’m interested in Fron End Web Development 
 - 🌱 I’m currently learning JavaScript/React
 - 💞️ I’m looking to collaborate on any interesting project
 - 📫 How to reach me- stefan@stefansaric.com, stefanuxdev@gmail.com discord: Be water my friend #7671
