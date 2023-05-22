@@ -3,7 +3,7 @@
 - 👀 I’m interested in Fron End Web Development 
 - 🌱 I’m currently learning JavaScript/React
 - 💞️ I’m looking to collaborate on any interesting project
-- 📫 How to reach me- stefan@stefansaric.com, stefanuxdev@gmail.com discord: Be water my friend #7671
+- 📫 How to reach me- Email: stefan@stefansaric.com Discord: Be water my friend #7671
 
 <!---
 stefanuxdev/stefanuxdev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
