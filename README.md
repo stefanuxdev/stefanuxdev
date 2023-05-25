@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **JavaScript/React**
 
-- 👨‍💻 All of my projects are available at [www.stefansaric.com](www.stefansaric.com)
+- 👨‍💻 All of my projects are available at https://stefansaric.com/
 
 - 📫 How to reach me **stefan@stefansaric.com**
 
